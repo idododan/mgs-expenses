@@ -3,7 +3,7 @@
     "id": "mgs",
     "name": "MGS-Finance / TRS"
   },
-  "generated_at": "2026-11-07T22:36:51Z",
+  "generated_at": "2026-11-08T21:57:48Z",
   "expenses": [
     {
       "id": "ce54a078cb8c2b1c04bb765bc774bfa40e12d909afb457ee316e0930b5765079",
@@ -845,6 +845,26 @@
       "file": null,
       "project": "mgs",
       "shared": true,
+      "receipt_total": null
+    },
+    {
+      "id": "43c1bf5429a517800252491cdf323a6373078a00fb52646c4b211238a41a6d93",
+      "date": "2026-11-08",
+      "merchant": "YAMM",
+      "merchant_raw": "YAMM.com",
+      "reference": "2126-0784",
+      "amount": 144.0,
+      "currency": "USD",
+      "status": "ok",
+      "source": "gmail",
+      "inbox": "mgs-info",
+      "sender": "stripe.com",
+      "subject": "Your receipt from YAMM.com #2126-0784",
+      "label": "Receipts",
+      "also_seen_in": [],
+      "file": null,
+      "project": "mgs",
+      "shared": false,
       "receipt_total": null
     }
   ]
