@@ -20,7 +20,7 @@
       "date": "2026-03-13",
       "merchant": "Anthropic",
       "reference": "2268-6793-0467",
-      "amount": 20.0,
+      "amount": 20,
       "currency": "USD",
       "desc": "Claude Pro (Mar 13–Apr 13)",
       "paid_by": "Ido"
@@ -29,7 +29,7 @@
       "date": "2026-03-18",
       "merchant": "Anthropic",
       "reference": "2006-9180-0924",
-      "amount": 5.0,
+      "amount": 5,
       "currency": "USD",
       "desc": "Prepaid extra usage, Individual plan",
       "paid_by": "Ido"
@@ -38,7 +38,7 @@
       "date": "2026-03-18",
       "merchant": "Anthropic",
       "reference": "2338-3261-4685",
-      "amount": 5.0,
+      "amount": 5,
       "currency": "USD",
       "desc": "Prepaid extra usage, Individual plan",
       "paid_by": "Ido"
@@ -56,7 +56,7 @@
       "date": "2026-03-18",
       "merchant": "Anthropic",
       "reference": "2834-0651-6648",
-      "amount": 5.0,
+      "amount": 5,
       "currency": "USD",
       "desc": "Prepaid extra usage, Individual plan",
       "paid_by": "Ido"
@@ -65,7 +65,7 @@
       "date": "2026-04-13",
       "merchant": "Anthropic",
       "reference": "2528-0892-2975",
-      "amount": 20.0,
+      "amount": 20,
       "currency": "USD",
       "desc": "Claude Pro (Apr 13–May 13)",
       "paid_by": "Ido"
@@ -83,7 +83,7 @@
       "date": "2026-04-28",
       "merchant": "Anthropic",
       "reference": "2756-8870-6252",
-      "amount": 45.0,
+      "amount": 45,
       "currency": "USD",
       "desc": "Prepaid extra usage, Individual plan",
       "paid_by": "Ido"
@@ -92,7 +92,7 @@
       "date": "2026-05-28",
       "merchant": "Anthropic",
       "reference": "2727-7664-9379",
-      "amount": 20.0,
+      "amount": 20,
       "currency": "USD",
       "desc": "Claude Pro (May 28–Jun 28)",
       "paid_by": "Ido"
@@ -101,7 +101,7 @@
       "date": "2026-06-07",
       "merchant": "Anthropic",
       "reference": "2055-4744-5590",
-      "amount": 5.0,
+      "amount": 5,
       "currency": "USD",
       "desc": "One-time credit purchase",
       "paid_by": "Ido"
@@ -119,7 +119,7 @@
       "date": "2026-06-17",
       "merchant": "Anthropic",
       "reference": "2485-3157-9637",
-      "amount": 20.0,
+      "amount": 20,
       "currency": "USD",
       "desc": "One-time credit purchase",
       "paid_by": "Ido"
@@ -218,7 +218,7 @@
       "date": "2026-07-13",
       "merchant": "Anthropic",
       "reference": "2255-1861-9763",
-      "amount": 100.0,
+      "amount": 100,
       "currency": "USD",
       "desc": "Max plan – 5x (Jul 13–Aug 13)",
       "paid_by": "Ido"
@@ -253,7 +253,7 @@
     {
       "date": "2026-07-14",
       "by": "Guy",
-      "amount": 347.0,
+      "amount": 347,
       "currency": "ILS",
       "note": "his half of Jun–Jul spending",
       "ils_per_usd": 3.0139
@@ -261,10 +261,21 @@
     {
       "date": "2026-08-13",
       "by": "Guy",
-      "amount": 465.0,
+      "amount": 465,
       "currency": "ILS",
       "note": "his half of spending through mid-Aug",
       "ils_per_usd": 2.981
+    },
+    {
+      "id": "p-2026-11-09-1",
+      "date": "2026-11-09",
+      "by": "Guy",
+      "amount": 866,
+      "currency": "ILS",
+      "note": "",
+      "rate": 3.1707,
+      "added_at": "2026-11-09T19:45:22Z",
+      "added_by": "web"
     }
   ],
   "adjustments": [],
