@@ -3,7 +3,7 @@
     "id": "mgs",
     "name": "MGS-Finance / TRS"
   },
-  "generated_at": "2026-11-09T19:40:54Z",
+  "generated_at": "2026-11-09T19:43:02Z",
   "expenses": [
     {
       "id": "ce54a078cb8c2b1c04bb765bc774bfa40e12d909afb457ee316e0930b5765079",
@@ -783,6 +783,46 @@
       "file": null,
       "project": "mgs",
       "shared": false,
+      "receipt_total": null
+    },
+    {
+      "id": "758c1514006a50211ad1c7702bb4c71a53aec2f8a2f71ed5aa1b0fdd81c4b0bb",
+      "date": "2026-11-09",
+      "merchant": "Anthropic",
+      "merchant_raw": "Anthropic, PBC",
+      "reference": "2515-7137-6909",
+      "amount": 10.31,
+      "currency": "USD",
+      "status": "ok",
+      "source": "gmail",
+      "inbox": "gmail",
+      "sender": "mail.anthropic.com",
+      "subject": "Your receipt from Anthropic, PBC #2515-7137-6909",
+      "label": "Receipts",
+      "also_seen_in": [],
+      "file": null,
+      "project": "mgs",
+      "shared": true,
+      "receipt_total": null
+    },
+    {
+      "id": "b911b35aed3cfc4c41fd05a3dc16e6f9ac9fe7e214b7472e9a88eb6ce9917ceb",
+      "date": "2026-11-09",
+      "merchant": "Anthropic",
+      "merchant_raw": "Anthropic, PBC",
+      "reference": "2142-5435-9741",
+      "amount": 12.25,
+      "currency": "USD",
+      "status": "ok",
+      "source": "gmail",
+      "inbox": "gmail",
+      "sender": "mail.anthropic.com",
+      "subject": "Your receipt from Anthropic, PBC #2142-5435-9741",
+      "label": "Receipts",
+      "also_seen_in": [],
+      "file": null,
+      "project": "mgs",
+      "shared": true,
       "receipt_total": null
     }
   ]
