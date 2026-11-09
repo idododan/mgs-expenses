@@ -3,7 +3,7 @@
     "id": "mgs",
     "name": "MGS-Finance / TRS"
   },
-  "generated_at": "2026-11-09T07:08:29Z",
+  "generated_at": "2026-11-09T14:38:27Z",
   "expenses": [
     {
       "id": "ce54a078cb8c2b1c04bb765bc774bfa40e12d909afb457ee316e0930b5765079",
@@ -666,28 +666,6 @@
       "receipt_total": null
     },
     {
-      "id": "04afb7836a28f9b0a2c675ea8af9c21ea1aa83adc6b1f227fe9634f67d204442",
-      "date": "2026-10-24",
-      "merchant": "Green API",
-      "merchant_raw": "Ido Dan",
-      "reference": null,
-      "amount": 12.0,
-      "currency": "USD",
-      "status": "ok",
-      "source": "gmail",
-      "inbox": "gmail",
-      "sender": "gmail.com",
-      "subject": "Receipt green api MGS",
-      "label": "Receipts",
-      "also_seen_in": [
-        "yahoo"
-      ],
-      "file": null,
-      "project": "mgs",
-      "shared": false,
-      "receipt_total": null
-    },
-    {
       "id": "1a19a7507921ff6c0ecdd0851a8100aad9f2168bd0e4e1b26412cbe2ddb75a39",
       "date": "2026-10-24",
       "merchant": "Anthropic",
@@ -728,34 +706,14 @@
       "receipt_total": null
     },
     {
-      "id": "5c370f46e6290e9e73cbd646b9d7de06ba9b3d003c3e0ef5ffc0a5c41275a3c8",
-      "date": "2026-10-24",
-      "merchant": "Green API",
-      "merchant_raw": "GREEN-API",
-      "reference": null,
-      "amount": null,
-      "currency": null,
-      "status": "needs_parsing",
-      "source": "yahoo",
-      "inbox": "yahoo",
-      "sender": "green-api.com",
-      "subject": "Electronic receipt",
-      "label": "Receipts",
-      "also_seen_in": [],
-      "file": null,
-      "project": "mgs",
-      "shared": false,
-      "receipt_total": null
-    },
-    {
       "id": "f41659d6ea6767f5e1c21284c816d8040d4a60794d6c6381d7eea93b2d88c361",
       "date": "2026-10-24",
       "merchant": "Green API",
       "merchant_raw": "PayPro Global",
       "reference": "44897717",
-      "amount": null,
-      "currency": null,
-      "status": "needs_parsing",
+      "amount": 12.0,
+      "currency": "USD",
+      "status": "ok",
       "source": "yahoo",
       "inbox": "yahoo",
       "sender": "payproglobal.com",
