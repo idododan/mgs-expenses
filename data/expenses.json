@@ -3,7 +3,7 @@
     "id": "mgs",
     "name": "MGS-Finance / TRS"
   },
-  "generated_at": "2026-11-09T14:38:27Z",
+  "generated_at": "2026-11-09T19:40:54Z",
   "expenses": [
     {
       "id": "ce54a078cb8c2b1c04bb765bc774bfa40e12d909afb457ee316e0930b5765079",
@@ -709,7 +709,7 @@
       "id": "f41659d6ea6767f5e1c21284c816d8040d4a60794d6c6381d7eea93b2d88c361",
       "date": "2026-10-24",
       "merchant": "Green API",
-      "merchant_raw": "PayPro Global",
+      "merchant_raw": "Green API",
       "reference": "44897717",
       "amount": 12.0,
       "currency": "USD",
